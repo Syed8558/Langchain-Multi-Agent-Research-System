@@ -16,6 +16,7 @@ beautifulsoup4
 readability-lxml
 trafilatura
 lxml
+lxml_html_clean
 
 # Environmental setup
 python-dotenv
